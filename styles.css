@@ -10,7 +10,7 @@ body {
 
 button {
   background-color: rgb(62, 223, 251);
-  color: rgb(232, 29, 29);
+  color: rgb(232, 129, 29);
   padding: 8px 4px;
   border-radius: 8px;
   cursor: pointer;
@@ -29,7 +29,7 @@ button {
 }
 
 .navbar {
-  background-color: rgb(12, 12, 45);
+  background-color: rgb(12, 129, 45);
   color: white;
 }
 
